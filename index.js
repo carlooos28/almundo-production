@@ -1,5 +1,5 @@
 const express = require('express');
-const hotels = require('./data/data.json');
+const hotels = require('./src/data/data.json');
 
 const app = express();
 

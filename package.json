@@ -2,9 +2,9 @@
   "name": "apialmundo",
   "version": "1.0.0",
   "description": "Test Almundo Frontend",
-  "main": "src/index",
+  "main": "index",
   "scripts": {
-    "start": "npm install &&  babel-node src/index"
+    "start": "npm install &&  babel-node index"
   },
   "keywords": [
     "Almundo"
